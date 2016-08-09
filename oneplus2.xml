@@ -3,5 +3,6 @@
     
     <project name="efidroid-oneplus2/device" path="device/oneplus/oneplus2" remote="github" revision="oneplus/oneplus2" />
     <project name="efidroid-oneplus2/bootloader_lk" path="bootloader/lk/qcom/LA.BF64" remote="github" revision="qcom/LA.BF64" />
+    <project name="efidroid-oneplus2/module_squirrel" path="modules/squirrel" remote="github" revision="master" />
     
 </manifest>
