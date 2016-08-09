@@ -2,6 +2,6 @@
 <manifest>
     
     <project name="efidroid-oneplus2/device" path="device/oneplus/oneplus2" remote="github" revision="oneplus/oneplus2" />
-    <project name="efidroid/bootloader_lk" path="bootloader/lk/qcom/LA.BF64" remote="github" revision="common/LA.BF64.clean" />
+    <project name="efidroid-oneplus2/bootloader_lk" path="bootloader/lk/qcom/LA.BF64" remote="github" revision="qcom/LA.BF64" />
     
 </manifest>
